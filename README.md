@@ -28,7 +28,7 @@ I enjoy **solving complex security challenges** and contributing to **real-world
 - **OS Command Injection Lab Walkthroughs** – Documented labs and tutorials on GitHub  
 - **Network Design Scenarios** – Designed secure network architecture for real-world scenarios  
 
-Explore my repositories for **practical labs, tutorials, and project contributions**: [**GitHub Repositories**](https://github.com/yourusername)  
+Explore my repositories for **practical labs, tutorials, and project contributions**: [**GitHub Repositories**](https://github.com/wijesekara06?tab=repositories)  
 
 ---
 
